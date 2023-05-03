@@ -25,6 +25,7 @@ void Method21(string msg, int count) //Принимает текст, вывод
 }
 Method21(msg:"Text", count: 4);
 
+//2131
 
 // Вид 3 (Не принимает, возвращает)
 
